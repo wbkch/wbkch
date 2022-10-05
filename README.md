@@ -26,7 +26,7 @@
 - ⚡ Expert React Developer
 - 🌱 Currently expanding my knowledge and experience
 - 🔭 Always on lookout for amazing opportunities
-- 🇵🇰 Sargodha, Punjab, Pakistan
+- 🇵🇰 Lahore, Punjab, Pakistan
 - 📱 (+92) 305 89959522
 
 <br><br><br><br>
