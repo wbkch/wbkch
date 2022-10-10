@@ -55,7 +55,6 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/-JavaScript-e3f248?style=flat-square&logo=JavaScript&logoColor=yellow" />
-	<img src="https://img.shields.io/badge/-Node.Js-8fed2e?style=flat-square&logo=node.js&logoColor=green" />
 	<img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React&logoColor=61DAFB" />
 	<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 	<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
