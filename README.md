@@ -5,12 +5,18 @@
 <p align="center">My name is  <b><code>Waleed Bin Khalid</code></b>. I am a <code>React developer</code> with a passion for building smart and easy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – <code>programmer</code>.</p>
 
 <p align="center">
-	<a href="waleedbinkhalidch@gmail.com" target="_blank">
-		<img src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333" />
-	</a> 
 	<a href="https://github.com/wbkch" target="_blank">
 		<img src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333" />
 	</a> 
+	<a href="https://www.linkedin.com/in/waleed-bin-khalid-wbkch/" target="_blank">
+		<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
+	</a>
+	<a href="mailto:waleedbinkhalidch@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=ffffff">
+	</a>
+	<a href="https://wa.me/923058995952?text=%23Github" target="_blank">
+		<img src="https://img.shields.io/badge/Chat-25D366?style=for-the-badge&logo=WhatsApp&logoColor=ffffff">
+	</a>
 </p>
 
 <h2></h2>
