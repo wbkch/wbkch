@@ -8,7 +8,6 @@
 	<a href="waleedbinkhalidch@gmail.com" target="_blank">
 		<img src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333" />
 	</a> 
-	
 	<a href="https://github.com/wbkch" target="_blank">
 		<img src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333" />
 	</a> 
@@ -30,7 +29,6 @@
 <br><br><br><br>
 
 <div align="center">
-	
 	<a href="https://github.com/wbkch/" target="_blank">
 		<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
 	</a> 
