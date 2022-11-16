@@ -6,8 +6,8 @@
 
 <p align="center">
 	<a href="https://wbkhalid.netlify.app/" target="_blank">
-		<img src="https://shields.io/badge/-WEBSITE-2B579A?style=for-the-badge&logo=website&logoColor=fff&labelColor=333" />
-	</a>
+		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff">
+	</a> 
 	<a href="https://www.linkedin.com/in/waleed-bin-khalid-wbkch/" target="_blank">
 		<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
 	</a>
