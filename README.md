@@ -5,9 +5,9 @@
 <p align="center">My name is  <b><code>Waleed Bin Khalid</code></b>. I am a <code>React developer</code> with a passion for building smart and easy-to-use applications. I am a perfectionist with a sense of detail and ensure quality and high professionalism in everything I do. One word – <code>programmer</code>.</p>
 
 <p align="center">
-	<a href="https://github.com/wbkch" target="_blank">
-		<img src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333" />
-	</a> 
+	<a href="https://wbkhalid.netlify.app/" target="_blank">
+		<img src="https://shields.io/badge/-WEBSITE-2B579A?style=for-the-badge&logo=website&logoColor=fff&labelColor=333" />
+	</a>
 	<a href="https://www.linkedin.com/in/waleed-bin-khalid-wbkch/" target="_blank">
 		<img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=ffffff">
 	</a>
@@ -35,6 +35,9 @@
 <br><br><br><br>
 
 <div align="center">
+	<a href="https://wbkhalid.netlify.app/" target="_blank">
+		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff">
+	</a> 
 	<a href="https://github.com/wbkch/" target="_blank">
 		<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
 	</a> 
@@ -55,10 +58,16 @@
 
 <p align="center">
 	<img src="https://img.shields.io/badge/-JavaScript-e3f248?style=flat-square&logo=JavaScript&logoColor=yellow" />
+	<img src="https://img.shields.io/badge/-Node.Js-8fed2e?style=flat-square&logo=node.js&logoColor=green" />
 	<img src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=React&logoColor=61DAFB" />
+	<img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=Next.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
+	<img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+	<img src="https://img.shields.io/badge/-styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
 	<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 	<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
 	<img src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=fff" />
 	</p>
 
 <h2></h2>
