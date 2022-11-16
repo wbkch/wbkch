@@ -35,6 +35,9 @@
 <br><br><br><br>
 
 <div align="center">
+	<a href="https://wbkhalid.netlify.app/" target="_blank">
+		<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=opsgenie&logoColor=ffffff">
+	</a> 
 	<a href="https://github.com/wbkch/" target="_blank">
 		<img src="https://img.shields.io/badge/Github-211F1F?style=for-the-badge&logo=GitHub&logoColor=ffffff">
 	</a> 
